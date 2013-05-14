@@ -24,7 +24,7 @@ static PWMConfig pwmcfg = {
 
 static WORKING_AREA(waThread3, 128);
 static msg_t Thread3(void *arg) {
-  chThdSleepMilliseconds(5000);  
+  chThdSleepMilliseconds(2000);  
   (void)arg;
 
   chRegSetThreadName("motorthread");
@@ -37,7 +37,7 @@ static msg_t Thread3(void *arg) {
 
 static WORKING_AREA(waThread4, 128);
 static msg_t Thread4(void *arg) {
- // chThdSleepMilliseconds(2000);
+  chThdSleepMilliseconds(2000);
   //steering motor
   (void)arg;
   chRegSetThreadName("steeringthread");
