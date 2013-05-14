@@ -11,7 +11,7 @@
 #include "Misc/Misc.h"
 #include "SPI/SPI.h"
 #include "msv/include/ir_protocol.h"
-#include "MOTOR/motor.h"
+#include "msv/include/motor.h"
 
 
 // #include "msv/include/RAZOR.h"

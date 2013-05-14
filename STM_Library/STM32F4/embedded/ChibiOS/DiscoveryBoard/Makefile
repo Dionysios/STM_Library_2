@@ -93,8 +93,8 @@ CSRC = $(PORTSRC) \
        Misc/Misc.c \
        SPI/SPI.c \
        msv/src/ir_protocol.c \
-       msv/src/servo.c \
-       MOTOR/motor.c 
+       msv/src/motor.c \
+     
 
 # C++ sources that can be compiled in ARM or THUMB mode depending on the global
 # setting.
