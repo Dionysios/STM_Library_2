@@ -1,0 +1,2 @@
+/home/dionysis/Documents/c/Dionysis_Project/2013-mini-smart-vehicles/group-1/sources/STM32F4/STM_Library/STM32F4/host-tools/build/qstlink2/CMakeFiles/install-udev.dir
+/home/dionysis/Documents/c/Dionysis_Project/2013-mini-smart-vehicles/group-1/sources/STM32F4/STM_Library/STM32F4/host-tools/build/qstlink2/CMakeFiles/qstlink2.dir
